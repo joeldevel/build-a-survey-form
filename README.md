@@ -19,7 +19,7 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 
 5. User Story #5: Inside the form element, I am required to enter an email in a field with id="email".
 
-6. User Story #6: If I enter an email that is not formatted correctly, I will see an HTML5 validation error.
+6. User Story #6: If I enter an email that is not formatted correctly, I will see an HTML5 validation error.  
 
 7. User Story #7: Inside the form, I can enter a number in a field with id="number".
 
